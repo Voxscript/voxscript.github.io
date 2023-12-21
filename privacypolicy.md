@@ -1,6 +1,6 @@
-layout: page
-title: "Privacy Policy"
-permalink: /PrivacyPolicy
+layout: default
+title: "Voxscript :: Privacy Policy"
+permalink: /privacypolicy
 
 # Privacy Policy for VoxScript - Microsoft Teams Plugin
 
