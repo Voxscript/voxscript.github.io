@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Welcome to VoxScript"
+permalink: /
+---
+
 # Welcome to VoxScript
 
 ## Overview
@@ -14,8 +20,8 @@ VoxScript is an innovative Microsoft Teams plugin developed by AllWire Technolog
 
 To ensure a smooth and compliant user experience, we have outlined detailed guidelines and policies. Please review these documents to understand better how to use VoxScript responsibly and what to expect in terms of privacy.
 
-- [Terms of Use](./TermsOfUse.md): Understand the rules and regulations governing the use of VoxScript.
-- [Privacy Policy](./PrivacyPolicy.md): Learn how your data is collected, used, and protected when using VoxScript.
+- [Terms of Use](./TermsOfUse/): Understand the rules and regulations governing the use of VoxScript.
+- [Privacy Policy](./PrivacyPolicy/): Learn how your data is collected, used, and protected when using VoxScript.
 
 ## Getting Started
 
