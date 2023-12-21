@@ -9,6 +9,7 @@ Voxscript for Microsoft Teams is a Voxscript based plugin developed by Allwire T
 To get started with VoxScript, follow these simple steps:
 
 1. **Install VoxScript:** Add VoxScript to your Microsoft Teams environment.
+2. Give it a try! If you like it, feel free purchase a subscription to help us with OpenAI usage costs!
 3. **Explore Features:** Familiarize yourself with the various functionalities available.
 4. **Stay Informed:** Regularly check our documentation for updates and best practices.
 
@@ -21,7 +22,7 @@ To get started with VoxScript, follow these simple steps:
 ## Documentation
 
 To ensure a smooth and compliant user experience, we have outlined detailed guidelines and policies. Please review these documents to understand better how to use VoxScript responsibly and what to expect in terms of privacy.
-- [Billing Management](https://pay.allwiretech.com/p/login/test_8wMaFb0bM2u12I0000): Billing Management
+- [Billing Management](https://pay.allwiretech.com/p/login/test_8wMaFb0bM2u12I0000): Manage your existing subscription
 - [Terms of Use](./termsofuse.html): Understand the rules and regulations governing the use of VoxScript.
 - [Privacy Policy](./privacypolicy.html): Learn how your data is collected, used, and protected when using VoxScript.
 - [Developers](https://github.com/Voxscript/voxscript-demos): Developer? Check out our Voxscript GPTs and API!
