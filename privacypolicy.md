@@ -1,3 +1,7 @@
+layout: page
+title: "Terms of Use"
+permalink: /TermsOfUse
+
 # Privacy Policy for VoxScript - Microsoft Teams Plugin
 
 **Effective Date:** 12/20/2023
