@@ -24,7 +24,7 @@ To ensure a smooth and compliant user experience, we have outlined detailed guid
 - [Billing Management](https://pay.allwiretech.com/p/login/test_8wMaFb0bM2u12I0000): Billing Management
 - [Terms of Use](./termsofuse.html): Understand the rules and regulations governing the use of VoxScript.
 - [Privacy Policy](./privacypolicy.html): Learn how your data is collected, used, and protected when using VoxScript.
-- [Developers][(https://github.com/Voxscript/voxscript-demos)](https://github.com/Voxscript/voxscript-demos): Developer? Check out our Voxscript GPTs and API!
+- [Developers](https://github.com/Voxscript/voxscript-demos): Developer? Check out our Voxscript GPTs and API!
 
 ## Support and Contact
 
