@@ -1,5 +1,5 @@
 layout: page
-title: "Terms of Use"
+title: "Privacy Policy"
 permalink: /TermsOfUse
 
 # Privacy Policy for VoxScript - Microsoft Teams Plugin
