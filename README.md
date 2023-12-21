@@ -1,8 +1,7 @@
----
 layout: default
 title: "Welcome to VoxScript"
 permalink: /
----
+
 
 # Welcome to VoxScript
 
