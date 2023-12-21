@@ -1,3 +1,7 @@
+layout: page
+title: "Terms of Use"
+permalink: /TermsOfUse
+
 # Terms of Use for VoxScript - Microsoft Teams Plugin
 
 **Last Updated:** 12/20/2023
