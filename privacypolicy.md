@@ -1,7 +1,3 @@
-layout: default
-title: "Voxscript :: Privacy Policy"
-permalink: /privacypolicy
-
 # Privacy Policy for VoxScript - Microsoft Teams Plugin
 
 **Effective Date:** 12/20/2023
