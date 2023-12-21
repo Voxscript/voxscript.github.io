@@ -1,6 +1,6 @@
-layout: page
-title: "Terms of Use"
-permalink: /TermsOfUse
+layout: default
+title: "Voxscript :: Terms of Use"
+permalink: /termsofuse
 
 # Terms of Use for VoxScript - Microsoft Teams Plugin
 
