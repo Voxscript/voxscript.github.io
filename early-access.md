@@ -1,11 +1,23 @@
 <h1>Exclusive Early Access to Voxscript</h1>
 <p>Join us in shaping Voxscript! Your participation in our early access program grants you unlimited access to Voxscript features for MS Teams, along with the unique opportunity to engage directly with our development team allowing us to build <i>THE</i> plugin you want to use.</p>
 <p>You're free to opt-out whenever you choose. All early access fees are reinvested into supporting the external services that power Voxscript.</p>
-<p><b><a id="offer-link" href="#">Subscribe via Stripe</a></b></p>
+<p><b><h2><a id="offer-link" href="#">Subscribe via Stripe</a></h2></b></p>
 <br/>
 <p>
  Looking for organizational pricing? Drop us <a href="mailto:voxscript@allwiretech.com">line</a> and more to be announced soon!
 </p>
+
+<b>Other Links</b>
+- [Billing Management](https://pay.allwiretech.com/p/login/test_8wMaFb0bM2u12I0000): Manage your existing subscription
+- [Terms of Use](./termsofuse.html): Understand the rules and regulations governing the use of VoxScript.
+- [Privacy Policy](./privacypolicy.html): Learn how your data is collected, used, and protected when using VoxScript.
+- [Developers](https://github.com/Voxscript/voxscript-demos): Developer? Check out our Voxscript GPTs and API!
+
+## Support and Contact
+
+If you encounter any issues or have questions regarding VoxScript, please feel free to reach out to us. Your feedback is invaluable in helping us improve our service.
+
+- **Contact Us:** voxscript@allwiretech.com
 
 <script>
          window.onload = function() {
