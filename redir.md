@@ -1,9 +1,3 @@
-  <div id="offer-box" class="offer-box" style="display:none;">
-        <h2>Voxscript Early Access Offer</h2>
-        <p>Exclusive access just a click away!</p>
-        <a id="offer-link" href="#">Access Now</a>
-    </div>
-
     <style>
         .offer-box {
             border: 2px solid #4CAF50;
@@ -24,6 +18,13 @@
             text-decoration: underline;
         }
     </style>
+  
+     <div id="offer-box" class="offer-box" style="display:none;">
+        <h2>Voxscript Early Access Offer</h2>
+        <p>Exclusive access just a click away!</p>
+        <a id="offer-link" href="#">Access Now</a>
+    </div>
+    
     <script>
         window.onload = function() {
             function getParameterByName(name, url = window.location.href) {
