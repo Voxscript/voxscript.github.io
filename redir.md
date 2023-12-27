@@ -1,12 +1,8 @@
 
+<h2>Voxscript Early Access Offer</h2>
+<p>Exclusive access just a click away!</p>
+<a id="offer-link" href="#">Access Now</a>
 
-
-
-<div id="offer-box" class="offer-box" style="display:none;">
-        <h2>Voxscript Early Access Offer</h2>
-        <p>Exclusive access just a click away!</p>
-        <a id="offer-link" href="#">Access Now</a>
-</div>
   
   <script>
          window.onload = function() {
