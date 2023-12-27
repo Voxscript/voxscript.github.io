@@ -1,6 +1,6 @@
-
 <p>Redirecting...</p>
-  <script>
+
+     <script>
          window.onload = function() {
              // Function to get URL parameters
              function getParameterByName(name, url = window.location.href) {
