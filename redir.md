@@ -1,25 +1,6 @@
 
 
-<style>
-        .offer-box {
-            border: 2px solid #4CAF50;
-            border-radius: 5px;
-            padding: 20px;
-            margin: 20px;
-            text-align: center;
-            background-color: #f2f2f2;
-        }
 
-        .offer-box a {
-            color: #4CAF50;
-            font-weight: bold;
-            text-decoration: none;
-        }
-
-        .offer-box a:hover {
-            text-decoration: underline;
-        }
-</style>
 
 <div id="offer-box" class="offer-box" style="display:none;">
         <h2>Voxscript Early Access Offer</h2>
@@ -48,7 +29,7 @@
                  var decodedUrl = decodeURIComponent(encodedUrl);
  
                  // Redirect to the URL
-                 window.location.href = decodedUrl;
+                 //window.location.href = decodedUrl;
              } else {
                  // If no URL is provided, you can redirect to a default page or show an error
                  console.log('No URL provided');
