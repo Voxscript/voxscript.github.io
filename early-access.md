@@ -1,7 +1,11 @@
-
-<h2>Voxscript Early Access Offer</h2>
-<p>Our Voxscript Early Access</p>
-<a id="offer-link" href="#">Payment through Stripe</a>
+<h1>Exclusive Early Access to Voxscript</h1>
+<p>Join us in shaping Voxscript! Your participation in our early access program grants you unlimited access to Voxscript features for MS Teams, along with the unique opportunity to engage directly with our development team while allowing us to build the plugin that you want to use.</p>
+<p>You're free to opt-out whenever you choose. All early access fees are reinvested into supporting the external services that power Voxscript.</p>
+<span><p><b><a href="#">Subscribe via Stripe</a></b></p></span>
+<br/>
+<p>
+ Looking for organizational pricing? Drop us <a href="mailto:voxscript@allwiretech.com">line</a> and more to be announced soon!
+</p>
 
 <script>
          window.onload = function() {
@@ -26,7 +30,7 @@
                 document.getElementById('offer-box').style.display = 'block';
  
                  // Redirect to the URL
-                 window.location.href = decodedUrl;
+                 //window.location.href = decodedUrl;
              } else {
                  // If no URL is provided, you can redirect to a default page or show an error
                  console.log('No URL provided');
@@ -34,34 +38,3 @@
          };
 </script>
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-       <style>
-        .offer-box {
-            border: 2px solid #4CAF50;
-            border-radius: 5px;
-            padding: 20px;
-            margin: 20px;
-            text-align: center;
-            background-color: #f2f2f2;
-        }
-
-        .offer-box a {
-            color: #4CAF50;
-            font-weight: bold;
-            text-decoration: none;
-        }
-
-        .offer-box a:hover {
-            text-decoration: underline;
-        }
-    </style>
-
- <div id="offer-box" class="offer-box" style="display:none;">
-        <h2>Voxscript Early Access Offer</h2>
-        <p>Exclusive access just a click away!</p>
-        <a id="offer-link" href="#">Access Now</a>
-    </div>
-  </foreignObject>
-</svg>
