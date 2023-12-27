@@ -3,8 +3,7 @@
 <p>Exclusive access just a click away!</p>
 <a id="offer-link" href="#">Access Now</a>
 
-  
-  <script>
+<script>
          window.onload = function() {
              // Function to get URL parameters
              function getParameterByName(name, url = window.location.href) {
@@ -22,7 +21,9 @@
              // Check if the 'url' parameter exists
              if (encodedUrl) {
                  // Decode the URL
-                 var decodedUrl = decodeURIComponent(encodedUrl);
+                var decodedUrl = decodeURIComponent(encodedUrl);
+                document.getElementById('offer-link').href = decodedUrl;
+                document.getElementById('offer-box').style.display = 'block';
  
                  // Redirect to the URL
                  //window.location.href = decodedUrl;
@@ -31,4 +32,4 @@
                  console.log('No URL provided');
              }
          };
-     </script>
+</script>
