@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>URL Redirect</title>
-    <script>
+
+<p>Redirecting...</p>
+ <script>
         window.onload = function() {
             // Function to get URL parameters
             function getParameterByName(name, url = window.location.href) {
@@ -30,8 +28,3 @@
             }
         };
     </script>
-</head>
-<body>
-    <p>Redirecting...</p>
-</body>
-</html>
