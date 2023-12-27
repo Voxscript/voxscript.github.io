@@ -1,7 +1,7 @@
 <h1>Exclusive Early Access to Voxscript</h1>
 <p>Join us in shaping Voxscript! Your participation in our early access program grants you unlimited access to Voxscript features for MS Teams, along with the unique opportunity to engage directly with our development team while allowing us to build the plugin that you want to use.</p>
 <p>You're free to opt-out whenever you choose. All early access fees are reinvested into supporting the external services that power Voxscript.</p>
-<span><p><b><a href="#">Subscribe via Stripe</a></b></p></span>
+<p><b><a id="offer-link" href="#">Subscribe via Stripe</a></b></p>
 <br/>
 <p>
  Looking for organizational pricing? Drop us <a href="mailto:voxscript@allwiretech.com">line</a> and more to be announced soon!
